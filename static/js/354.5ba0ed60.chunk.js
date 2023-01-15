@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_blog=self.webpackChunkdev_blog||[]).push([[354],{4354:function(e,s,t){e.exports=t.p+"static/media/defaultPost.202a2a08bcf1bdd84177.md"}}]);
